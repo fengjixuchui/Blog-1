@@ -2,7 +2,7 @@
 
 ## 淘宝春招
 
-面向 21 届的同学，我们创建了校招前端面试冲刺互助群，你说出你的面试题，有专业淘系前端为你写答案，同时可以交流、分享经验、简历辅导、内推等等，欢迎加 taoxiaozhao233 入群
+面向 21 届的同学，我们创建了校招前端面试冲刺互助群，可以交流、分享经验、简历辅导、内推等等，欢迎加 taoxiaozhao233 入群
 
 ## 进度
 
@@ -49,6 +49,7 @@ React 系列还在懒惰中……
 16. [JavaScript深入系列15篇正式完结！](https://github.com/mqyqingfeng/Blog/issues/17)
 17. [JavaScript深入之浮点数精度](https://github.com/mqyqingfeng/Blog/issues/155)
 18. [JavaScript深入之头疼的类型转换(上)](https://github.com/mqyqingfeng/Blog/issues/159)
+19. [JavaScript深入之头疼的类型转换(下)](https://github.com/mqyqingfeng/Blog/issues/164)
 
 ## 专题系列目录
 
@@ -73,6 +74,7 @@ React 系列还在懒惰中……
 19. [JavaScript专题之乱序](https://github.com/mqyqingfeng/Blog/issues/51)
 20. [JavaScript专题之解读 v8 排序源码](https://github.com/mqyqingfeng/Blog/issues/52)
 21. [JavaScript专题系列20篇正式完结！](https://github.com/mqyqingfeng/Blog/issues/53)
+22. [JavaScript专题之花式表示26个字母](https://github.com/mqyqingfeng/Blog/issues/166)
 
 ## underscore 系列目录
 
